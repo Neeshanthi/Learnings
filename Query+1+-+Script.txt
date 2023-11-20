@@ -1,5 +1,5 @@
 -- Query 1:
-
+11/20/23
 Write a SQL query to fetch all the duplicate records from a table.
 
 --Tables Structure:
